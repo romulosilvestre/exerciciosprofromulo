@@ -1,0 +1,8 @@
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\bin\Debug\ExerciciosProfRomulo.MatematicaBasica.exe.config
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\bin\Debug\ExerciciosProfRomulo.MatematicaBasica.exe
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\bin\Debug\ExerciciosProfRomulo.MatematicaBasica.pdb
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\obj\Debug\ExerciciosProfRomulo.MatematicaBasica.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\obj\Debug\ExerciciosProfRomulo.MatematicaBasica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\obj\Debug\ExerciciosProfRomulo.MatematicaBasica.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\obj\Debug\ExerciciosProfRomulo.MatematicaBasica.exe
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.MatematicaBasica\obj\Debug\ExerciciosProfRomulo.MatematicaBasica.pdb

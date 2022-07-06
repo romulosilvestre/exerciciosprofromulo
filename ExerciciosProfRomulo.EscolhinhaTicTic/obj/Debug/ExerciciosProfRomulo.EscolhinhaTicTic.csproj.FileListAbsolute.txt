@@ -1,0 +1,8 @@
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\bin\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.exe.config
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\bin\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.exe
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\bin\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.pdb
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\obj\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\obj\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\obj\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\obj\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.exe
+C:\Users\Professor\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolhinhaTicTic\obj\Debug\ExerciciosProfRomulo.EscolhinhaTicTic.pdb
